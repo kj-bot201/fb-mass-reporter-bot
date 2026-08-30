@@ -1,10 +1,6 @@
 {
   "accounts": [
-    {"email": "account1@gmail.com", "password": "password1"},
-    {"email": "account2@gmail.com", "password": "password2"},
-    {"email": "account3@gmail.com", "password": "password3"},
-    {"email": "account4@gmail.com", "password": "password4"},
-    {"email": "account5@gmail.com", "password": "password5"}
+    {"email": "mezzia723@gmail.com", "password": "takia9070"}
   ],
   "targets_file": "targets.json",
   "reports_per_account": 5,
