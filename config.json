@@ -1,0 +1,6 @@
+{
+  "email": "your_facebook_email@gmail.com",
+  "password": "your_facebook_password",
+  "accounts_file": "accounts.json",
+  "headless": false
+}

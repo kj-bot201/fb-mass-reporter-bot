@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# Selenium
+chromedriver
+geckodriver
+
+# Logs
+*.log
+reporter.log
+
+# Config files (keep credentials safe!)
+config.json
+accounts.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+.env
+.env.local
